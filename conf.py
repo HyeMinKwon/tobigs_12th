@@ -1,6 +1,6 @@
 def a(x){
     if x%2 ==0:
-        return "I love you"
+        return 'even'
     else:
-        return 0
+        return 'odd'
 }
